@@ -1,0 +1,14 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "training project about node and npm",
+  "main": "information.js",
+  "scripts": {
+    "go": "index.js"
+  },
+  "author": "Laurent Bauduin",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
